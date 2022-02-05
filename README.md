@@ -1,4 +1,4 @@
-# 💫About Me :
+# Hey 👋, I'm Muiz
 🔭 I'm currently working on JavaScript
 👯‍♀️ I'm looking to collaborate on Front-end Projects
 🌱 I'm currently learning Web 3.0 namely Solidity
