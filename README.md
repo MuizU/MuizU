@@ -1,9 +1,8 @@
 # Hey 👋, I'm Muiz
 🔭 I'm currently working on JavaScript
 👯‍♀️ I'm looking to collaborate on Front-end Projects
-🌱 I'm currently learning Web 3.0 namely Solidity
-💬 Ask me about Vim
-⚡ Fun fact: I know how to exit vim
+🌱 I'm currently working on Next.JS, and TypeScript projects
+💬 Ask me about React Server Components
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muiz-uvais) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MuizUvais) 
